@@ -1,1 +1,0 @@
-Theia Extension to get environment variables for Eclipse CHE.
