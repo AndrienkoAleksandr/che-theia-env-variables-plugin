@@ -26,7 +26,7 @@
     "src"
   ],
   "dependencies": {
-    "@theia/core": "0.3.7"
+    "@theia/core": "0.3.8"
   },
   "devDependencies": {
     "typescript": "2.7.2",
